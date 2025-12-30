@@ -1,2 +1,3 @@
 # Quatun-Library
-Library by robloxn_944 or arthurito
+
+local QuatunPremium = loadstring(game:HttpGet("https://raw.githubusercontent.com/Arthur508555/QuatunPremium/refs/heads/main/quantumpremium.lua"))()

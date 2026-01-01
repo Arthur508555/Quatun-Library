@@ -25,7 +25,7 @@ Exemplo de uso
 -------------------------------------
 
 local ArthurUI = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/Arthur508555/ArthurUILibrary/main/library.lua"
+    "https://raw.githubusercontent.com/Arthur508555/Quatun-Library/refs/heads/main/library.lua"
 ))()
 
 local window = ArthurUI:CreateWindow("Teste")
